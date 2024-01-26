@@ -1,2 +1,2 @@
 # entrevistas
-Realização de Testes para vagas de Emprego
+Este repositório tem como objetivo armazenar os Testes realizados para vagas de Emprego.
